@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Corporation",
+    "brand":"ASUS CLOUD雲端儲存",
+    "url":"https://www.asuscloud.com/",
+    "sameAs": [
+      "https://www.facebook.com/asuscloud/",
+      "https://www.youtube.com/user/asuswebstorage"
+    ],
+    "logo":"https://www.asuscloud.com/uploads/1/0/3/4/103463184/200-logo-1_1.png",
+    "contactPoint": [{ 
+      "@type": "ContactPoint",
+      "telephone": "+886228985277",
+      "contactType": "customer service",
+      "areaServed": "TW"
+    }]
+  }
+</script>
