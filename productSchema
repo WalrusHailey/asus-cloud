@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "OmniStor數據平台解決方案", //這邊請寫產品名稱
+  "image": [
+    "https://www.asuscloud.com/uploads/1/0/3/4/103463184/editor/1862478146.png?1493876055"
+   ], //這邊請放產品或系列品圖片
+  "description": "物件式儲存(Object Storage)設計架構帶來橫向擴充(Scale-out)優勢，有效降低擴充複雜度與長期持有成本，協助企業實現低成本的私有儲存服務。", //這邊請寫產品或解決方案介紹
+  "brand": {
+    "@type": "Organization",
+    "name": "ASUS CLOUD華碩雲端儲存"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "90"
+  } //這邊若有媒體雜誌所做Review，建議可以放上來
+}
+</script>
