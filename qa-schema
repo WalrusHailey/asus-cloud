@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>可以由不同台電腦存取 FileCloud 的檔案嗎？</title>
+...
+//其他內容
+</head>
+<body>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "QAPage",
+    "mainEntity": {
+      "@type": "Question",
+      "name": "可以由不同台電腦存取 FileCloud 的檔案嗎？",
+      "text": "可以由不同台電腦存取 FileCloud 的檔案嗎？",
+      "author": {
+        "@type": "Organization",
+        "name": "ASUS Cloud 雲端儲存"
+      },      
+      "answerCount": 1,
+      "dateCreated": "2019-02-20",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FileCloud 支援多裝置存取，可透過 FileCloud Web、PC 端應用程式、行動 App，執行檔案存取。",
+        "dateCreated": "2019-02-20",
+        "upvoteCount": 100,
+        "url": "https://www.asuscloud.com/support-faq-q3-1.html", //這個QA頁面的網址
+        "author": {
+          "@type": "Organization",
+          "name": "ASUS Cloud 雲端儲存"
+        }
+      }
+    }
+  }
+</script>
+...
+//其他頁面內容
+
+</body>
+</html>
